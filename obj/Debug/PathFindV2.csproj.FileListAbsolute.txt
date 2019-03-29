@@ -1,0 +1,10 @@
+C:\Users\Marián Trpkoš\source\repos\ALG\PathFindV2\bin\Debug\PathFindV2.exe.config
+C:\Users\Marián Trpkoš\source\repos\ALG\PathFindV2\bin\Debug\PathFindV2.exe
+C:\Users\Marián Trpkoš\source\repos\ALG\PathFindV2\bin\Debug\PathFindV2.pdb
+C:\Users\Marián Trpkoš\source\repos\ALG\PathFindV2\obj\Debug\PathFindV2.csprojAssemblyReference.cache
+C:\Users\Marián Trpkoš\source\repos\ALG\PathFindV2\obj\Debug\PathFindV2.Form1.resources
+C:\Users\Marián Trpkoš\source\repos\ALG\PathFindV2\obj\Debug\PathFindV2.Properties.Resources.resources
+C:\Users\Marián Trpkoš\source\repos\ALG\PathFindV2\obj\Debug\PathFindV2.csproj.GenerateResource.cache
+C:\Users\Marián Trpkoš\source\repos\ALG\PathFindV2\obj\Debug\PathFindV2.csproj.CoreCompileInputs.cache
+C:\Users\Marián Trpkoš\source\repos\ALG\PathFindV2\obj\Debug\PathFindV2.exe
+C:\Users\Marián Trpkoš\source\repos\ALG\PathFindV2\obj\Debug\PathFindV2.pdb
